@@ -229,11 +229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\estágio\\back-end\\back-end.csproj",
+      "projectUniqueName": "D:\\estágio\\teste-tecnico-back-end\\back-end.csproj",
       "projectName": "back-end",
-      "projectPath": "D:\\estágio\\back-end\\back-end.csproj",
+      "projectPath": "D:\\estágio\\teste-tecnico-back-end\\back-end.csproj",
       "packagesPath": "C:\\Users\\Yuri\\.nuget\\packages\\",
-      "outputPath": "D:\\estágio\\back-end\\obj\\",
+      "outputPath": "D:\\estágio\\teste-tecnico-back-end\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Yuri\\AppData\\Roaming\\NuGet\\NuGet.Config"

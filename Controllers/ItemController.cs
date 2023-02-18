@@ -38,6 +38,8 @@ namespace back_end.Controllers
     [HttpDelete("{id}")]
     public IActionResult Delete(int id)
     {
+      var exist = Items().Where(x => x.Id == id).FirstOrDefault();
+      if (exist == null) return NotFound("Item não encontrado!");
       var items = Items().Where(x => x.Id != id);
       return Ok(items);
     }
